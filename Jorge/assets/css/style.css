@@ -18,7 +18,7 @@ body {
     margin-right: 0;
     font-weight: 300;
     width:100%;
-    font-family: 'ralewayregular';
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 }
 .preloader {
     position: fixed;
